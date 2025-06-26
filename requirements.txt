@@ -1,0 +1,7 @@
+wbgapi
+pandas
+openpyxl
+seaborn
+matplotlib
+scikit-learn
+plotly
