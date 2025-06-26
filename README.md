@@ -7,8 +7,8 @@ This project aims to identify and predict regions at risk of water stress and po
 
 Contents:
 
-data/: Raw and processed datasets
+ * data/: Raw and processed datasets
 
-notebooks/: Colab notebooks for preprocessing, modeling, and visualization
+ * notebooks/: Colab notebooks for preprocessing, modeling, and visualization
 
-reports/: Summary of findings and ethical considerations
+ * reports/: Summary of findings and ethical considerations
